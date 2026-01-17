@@ -27,7 +27,9 @@ NLP: Text preprocessing, TF-IDF, sentiment analysis
 Deployment: Streamlit / Flask (basic)
 Tools: Jupyter Notebook, Git, GitHub
 
-📂 Repository Structure
+### 📂 Repository Structure
+```
+
 data-science-roadmap-4-months/
 │
 ├── Month-1_Python-Stats/
@@ -68,6 +70,8 @@ data-science-roadmap-4-months/
 ├── datasets/
 ├── requirements.txt
 └── README.md
+
+---
 
 📅 Roadmap Breakdown
 🔹 Month 1 – Python & Data Foundations
