@@ -1,47 +1,33 @@
-# data-science-roadmap-4-months
-Data science learning roadmap with real-world projects, notebooks, and Python scripts
-
-📊 Data Science Roadmap – 4 Months (Job-Ready Portfolio)
+### Data Science Roadmap – 4 Months (Job-Ready Portfolio)
 🚀 Overview
 
-This repository documents my 4-month structured journey into Data Science, designed to build job-ready skills through hands-on projects, real-world datasets, and end-to-end workflows.
+This repository documents my 4-month structured journey into Data Science, focused on building job-ready skills through hands-on projects, real-world datasets, and end-to-end workflows.
 
-Instead of focusing only on theory, this roadmap emphasizes practical implementation, business problem-solving, and industry best practices, aligned with current hiring expectations for Data Analyst and Junior Data Scientist roles.
+Rather than focusing only on theory, this roadmap emphasizes practical implementation, business problem-solving, and industry best practices, aligned with hiring expectations for Data Analyst and Junior Data Scientist roles.
 
 🎯 Objectives
 
 Build a strong foundation in Python and data analysis
 
-Learn to clean, analyze, and visualize real-world datasets
+Clean, analyze, and visualize real-world datasets
 
 Develop and evaluate machine learning models
 
-Apply NLP, time series analysis, and web scraping
+Apply NLP and time series analysis
 
 Create a professional, recruiter-ready GitHub portfolio
 
 🧠 Skills & Technologies
 
 Programming: Python
-
 Data Analysis: NumPy, Pandas
-
 Visualization: Matplotlib, Seaborn
-
 Machine Learning: Scikit-learn
-
 NLP: Text preprocessing, TF-IDF, sentiment analysis
-
-Web Scraping: Requests, BeautifulSoup
-
 Deployment: Streamlit / Flask (basic)
-
 Tools: Jupyter Notebook, Git, GitHub
 
-## 📂 Repository Structure
-
-```
-
+📂 Repository Structure
 data-science-roadmap-4-months/
 │
 ├── Month-1_Python-Stats/
@@ -57,13 +43,19 @@ data-science-roadmap-4-months/
 │   └── eda_project.ipynb
 │
 ├── Month-3_Machine-Learning/
-│   ├── regression.ipynb
-│   ├── classification.ipynb
-│   ├── model_evaluation.ipynb
+│   ├── supervised_learning/
+│   │   ├── linear_regression.ipynb
+│   │   ├── logistic_regression.ipynb
+│   │   └── decision_tree.ipynb
+│   │
+│   ├── evaluation/
+│   │   └── metrics.ipynb
+│   │
 │   └── ml_project/
-│       ├── preprocess.py
-│       ├── train.py
-│       └── model.py
+│       ├── data_preprocessing.py
+│       ├── train_model.py
+│       ├── evaluate.py
+│       └── README.md
 │
 ├── Month-4_Advanced-Projects/
 │   ├── time_series.ipynb
@@ -77,9 +69,6 @@ data-science-roadmap-4-months/
 ├── requirements.txt
 └── README.md
 
-
----
-
 📅 Roadmap Breakdown
 🔹 Month 1 – Python & Data Foundations
 
@@ -89,11 +78,11 @@ Data structures, functions, and file handling
 
 NumPy and Pandas for data manipulation
 
-Mini data analysis project using real datasets
+Mini data analysis project
 
-Outcome: Strong foundation in Python for data science
+Outcome: Strong Python foundation for data analysis
 
-🔹 Month 2 – Data Cleaning, EDA & Data Collection
+🔹 Month 2 – Data Cleaning & EDA
 
 Data preprocessing and feature understanding
 
@@ -103,15 +92,11 @@ Exploratory Data Analysis (EDA)
 
 Data visualization techniques
 
-Web scraping for data collection
-
 Outcome: Ability to extract meaningful insights from raw data
 
 🔹 Month 3 – Machine Learning
 
 Supervised learning (regression & classification)
-
-Unsupervised learning (clustering)
 
 Model evaluation and performance metrics
 
@@ -129,15 +114,15 @@ Model deployment fundamentals
 
 Industry-style capstone project
 
-Outcome: End-to-end project experience and deployment exposure
+Outcome: End-to-end data science project experience
 
-📈 Capstone Project
+📈 Capstone Project (End-to-End)
 
-The capstone project combines:
+The capstone project includes:
 
-Data collection & cleaning
+Data cleaning & preprocessing
 
-Exploratory analysis
+Exploratory data analysis
 
 Feature engineering
 
@@ -145,7 +130,7 @@ Model building & evaluation
 
 Optional deployment as a web app
 
-This project reflects real-world problem solving, similar to industry tasks.
+This project reflects real-world business problem solving, similar to industry tasks.
 
 👨‍💼 Target Roles
 
@@ -161,24 +146,23 @@ This repository is continuously updated to:
 
 Improve project quality
 
-Add better documentation
+Enhance documentation
 
 Optimize code structure
 
-Deploy models and dashboards
+Expand deployment and visualization features
 
 ⭐ How to Use This Repository
 
 Browse month-wise folders to track progress
 
-Review notebooks for explanations and analysis
+Review notebooks for explanations and insights
 
-Explore Python scripts for production-style code
+Explore Python scripts for production-style workflows
 
-Use projects as references for interviews
+Use projects as interview discussion material
 
 📬 Contact
 
 Feel free to explore, fork, or star ⭐ this repository.
 Open to collaboration, feedback, and data science discussions.
-
