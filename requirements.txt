@@ -1,0 +1,26 @@
+# Numerical computing
+numpy
+scipy
+
+# Data manipulation
+pandas
+
+# Data visualization
+matplotlib
+seaborn
+plotly
+
+# Machine Learning
+scikit-learn
+
+# Statistics
+statsmodels
+
+# Jupyter environment
+jupyter
+ipykernel
+notebook
+
+# Progress bars & utilities
+tqdm
+joblib

@@ -54,10 +54,11 @@ data-science-roadmap-4-months/
 │   │   └── metrics.ipynb
 │   │
 │   └── ml_project/
-│       ├── data_preprocessing.py
-│       ├── train_model.py
-│       ├── evaluate.py
-│       └── README.md
+│   |    ├── data_preprocessing.py
+│   |   ├── train_model.py
+│   |   ├── evaluate.py
+│   |    └── README.md
+│   └── README.md
 │
 ├── Month-4_Advanced-Projects/
 │   ├── time_series.ipynb
